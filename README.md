@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnrobertmahlan&theme=onedark)](https://github.com/johnrobertmahlan/github-readme-stats)
+[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnrobertmahlan&theme=synthwave)](https://github.com/johnrobertmahlan/github-readme-stats)
 
 <!--
 **johnrobertmahlan/johnrobertmahlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
