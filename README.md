@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/dvsjHZc6P3oozpp9I4/giphy.gif" width=850px height=300px>
 
-#### I am a software engineer and a philosopher. These days, I work for [Drizly](drizly.com) as an Implementation Engineer. In a past life, I earned a Ph.D. in philosophy from the [University of Virginia](www.virginia.edu) and was a professor of philosophy at [The American University in Cairo](aucegypt.edu), the [University of Richmond](richmond.edu), and the [University of Mary Washington](umw.edu). 
+#### I am a software engineer and a philosopher. These days, I work for [Drizly](https://drizly.com/home) as an Implementation Engineer. In a past life, I earned a Ph.D. in philosophy from the [University of Virginia](www.virginia.edu) and was a professor of philosophy at [The American University in Cairo](aucegypt.edu), the [University of Richmond](richmond.edu), and the [University of Mary Washington](umw.edu). 
 
 #### I write mostly in Ruby on Rails and spend a decent bit of time digging through SQL databases. I like dabbling with React when I want to make things look nice.
 
