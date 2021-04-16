@@ -1,8 +1,8 @@
 <img src="https://media.giphy.com/media/dvsjHZc6P3oozpp9I4/giphy.gif" width=850px height=300px>
 
-#### I am a software engineer and a philosopher. These days, I work for [Drizly](https://drizly.com/home) as an Implementation Engineer. In a past life, I earned a Ph.D. in philosophy from the [University of Virginia](https://www.virginia.edu/) and was then a professor of philosophy at [The American University in Cairo](https://www.aucegypt.edu/), the [University of Richmond](https://www.richmond.edu/), and the [University of Mary Washington](https://www.umw.edu/). 
+#### I am a software engineer and a philosopher. These days, I work for [Drizly](https://drizly.com/home). In a past life, I earned a Ph.D. in philosophy from the [University of Virginia](https://www.virginia.edu/) and was then a professor of philosophy at [The American University in Cairo](https://www.aucegypt.edu/), the [University of Richmond](https://www.richmond.edu/), and the [University of Mary Washington](https://www.umw.edu/). Not surprisingly, then, one of my favorite things to do is to collaborate with others, teaching and learning together.
 
-#### I write mostly in Ruby on Rails and spend a decent bit of time digging through SQL databases. I like dabbling with React when I want to make things look nice.
+#### Right now, I'm falling in love with Ruby on Rails and trying to find a good professional justification for learning more SQL. On the off chance someone ever asks me to build something on the front end, I like to do silly things with React.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
