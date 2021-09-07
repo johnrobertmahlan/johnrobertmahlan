@@ -1,8 +1,10 @@
 <img src="https://media.giphy.com/media/dvsjHZc6P3oozpp9I4/giphy.gif" width=850px height=300px>
 
-I am a software engineer and a philosopher. These days, I work for [Drizly](https://drizly.com/home). In a past life, I earned a Ph.D. in philosophy from the [University of Virginia](https://www.virginia.edu/) and was then a professor of philosophy at [The American University in Cairo](https://www.aucegypt.edu/), the [University of Richmond](https://www.richmond.edu/), and the [University of Mary Washington](https://www.umw.edu/). Not surprisingly, then, one of my favorite things to do is to collaborate with others, teaching and learning together.
+I am a Software Engineer at [Dutchie](https://dutchie.com/). Before coming to Dutchie, I was an Implementation Engineer at [Drizly](https://drizly.com/home). I am also a graduate of [General Assembly's](https://generalassemb.ly/) Software Engineering Immersive Remote Flex program.
 
-Right now, I primarily work on the backend in Ruby on Rails, but I enjoy working across the entire stack, and have experience both with the MERN stack and Python/Django.
+In a past life, I earned a Ph.D. in philosophy from the [University of Virginia](https://www.virginia.edu/) and was then a professor of philosophy at [The American University in Cairo](https://www.aucegypt.edu/), the [University of Richmond](https://www.richmond.edu/), and the [University of Mary Washington](https://www.umw.edu/). 
+
+My passions include reading, writing, programming, and collaborating with others to learn and grow.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
