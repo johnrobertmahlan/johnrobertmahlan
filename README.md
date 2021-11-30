@@ -2,9 +2,9 @@
 
 I am a Software Engineer at [Dutchie](https://dutchie.com/). Before coming to Dutchie, I was an Implementation Engineer at [Drizly](https://drizly.com/home). I am also a graduate of [General Assembly's](https://generalassemb.ly/) Software Engineering Immersive Remote Flex program.
 
-In a past life, I earned a Ph.D. in philosophy from the [University of Virginia](https://www.virginia.edu/) and was then a professor of philosophy at [The American University in Cairo](https://www.aucegypt.edu/), the [University of Richmond](https://www.richmond.edu/), and the [University of Mary Washington](https://www.umw.edu/). 
+In a past life, I earned a Ph.D. in philosophy from the [University of Virginia](https://www.virginia.edu/) and then taught philosophy at [The American University in Cairo](https://www.aucegypt.edu/), the [University of Richmond](https://www.richmond.edu/), and the [University of Mary Washington](https://www.umw.edu/). 
 
-My passions include reading, writing, programming, and collaborating with others to learn and grow.
+My passions include reading, writing, programming, and collaborating with others to learn and grow. I also like hiking and throwing axes.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
